@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "605066653640",
+    "firebase_url": "https://phone-auth-9e2d9.firebaseio.com",
+    "project_id": "phone-auth-9e2d9",
+    "storage_bucket": "phone-auth-9e2d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605066653640:android:152355a6cc4042ab129afd",
+        "android_client_info": {
+          "package_name": "com.bitm.addshowevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605066653640-pvlnjct2d5157a2j1amegcjbc45tbs9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEYsnIR82Cp797vUSHhgi7Ob9HMRouYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605066653640-pvlnjct2d5157a2j1amegcjbc45tbs9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605066653640:android:ebc13406b456d7bd129afd",
+        "android_client_info": {
+          "package_name": "com.bitm.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605066653640-pvlnjct2d5157a2j1amegcjbc45tbs9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEYsnIR82Cp797vUSHhgi7Ob9HMRouYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605066653640-pvlnjct2d5157a2j1amegcjbc45tbs9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605066653640:android:3a402d95244fc18d129afd",
+        "android_client_info": {
+          "package_name": "com.bitm.tourmatepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605066653640-pvlnjct2d5157a2j1amegcjbc45tbs9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEYsnIR82Cp797vUSHhgi7Ob9HMRouYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605066653640-pvlnjct2d5157a2j1amegcjbc45tbs9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
